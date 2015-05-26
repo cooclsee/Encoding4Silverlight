@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCS", "DBCS\DBCS.csproj", "{771FA000-73DC-48DA-A16E-4D1C31322997}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCS", "DBCS\DBCS.csproj", "{74C7E0BC-C316-47C2-ABBF-3480D76062FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{EAE0828F-ED9E-4D71-ABA1-24E07A6A3F68}"
 EndProject
@@ -13,10 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{771FA000-73DC-48DA-A16E-4D1C31322997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{771FA000-73DC-48DA-A16E-4D1C31322997}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{771FA000-73DC-48DA-A16E-4D1C31322997}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{771FA000-73DC-48DA-A16E-4D1C31322997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C7E0BC-C316-47C2-ABBF-3480D76062FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C7E0BC-C316-47C2-ABBF-3480D76062FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C7E0BC-C316-47C2-ABBF-3480D76062FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C7E0BC-C316-47C2-ABBF-3480D76062FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EAE0828F-ED9E-4D71-ABA1-24E07A6A3F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EAE0828F-ED9E-4D71-ABA1-24E07A6A3F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE0828F-ED9E-4D71-ABA1-24E07A6A3F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
